@@ -31,11 +31,8 @@ I'm a **Fullstack Web Developer** with 2+ years of professional experience build
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayer1431&show_icons=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer1431&hide=jupyter%20notebook&layout=compact&hide_border=true"/>
-</div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer1431&hide=jupyter%20notebook&layout=compact&hide_border=true"/>
 
 ---
 
