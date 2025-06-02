@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah Al Jubayer Bhuiyan
 
-<!--
-**jubayer1431/jubayer1431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Fullstack Web Developer** with 2+ years of professional experience building production-ready web applications in remote teams. I focus on writing clean, maintainable code and enjoy turning real-world problems into scalable digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages**: JavaScript (ES6+), TypeScript, PHP, SQL
+- **Frontend**: React.js, Next.js, Redux, Tailwind CSS, Shadcn UI
+- **Backend**: Node.js, Express.js, CodeIgniter, REST APIs
+- **Databases**: MySQL, PostgreSQL, MongoDB, Prisma, Mongoose
+- **Tools**: Git & GitHub, Postman, Vercel, Netlify, Linux, pnpm
+- **Practices**: Clean Code, Component Reusability, Agile, API Integration
+
+---
+
+### 🚀 What I'm Working On
+- Real-time features using WebSocket and WebRTC  
+- UI-rich projects with smooth UX (e.g., restaurant & e-commerce UIs)  
+- Improving testing skills (Jest, Supertest)  
+- Exploring AWS, system design, and scalable architecture
+
+---
+
+### 📌 Highlights
+- Delivered multiple MVPs from scratch in small, agile teams  
+- Experienced in remote collaboration and asynchronous workflows  
+- Comfortable with both frontend polish and backend logic  
+- Always learning and building in public when possible
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jubayer1431&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer1431&hide=jupyter%20notebook&layout=compact&hide_border=true"/>
+</div>
+
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: [mdhridoy625@gmail.com](mailto:mdhridoy625@gmail.com)  
+- 🔗 GitHub: [@jubayer1431](https://github.com/jubayer1431)  
+- 💼 LinkedIn: [linkedin.com/in/jubayer1431](https://linkedin.com/in/jubayer1431)
+
+---
+
+_“Code with purpose, build with clarity.”_
