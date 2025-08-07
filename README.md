@@ -39,7 +39,7 @@ I'm a **Fullstack Web Developer** with 2+ years of professional experience build
 ### 📫 Connect With Me
 - 📧 Email: [mdhridoy625@gmail.com](mailto:mdhridoy625@gmail.com)  
 - 🔗 GitHub: [@jubayer1431](https://github.com/jubayer1431)  
-- 💼 LinkedIn: [linkedin.com/in/jubayer1431](https://linkedin.com/in/jubayer1431)
+- 💼 LinkedIn: [linkedin.com/in/aajbh](https://linkedin.com/in/aajbh)
 
 ---
 
