@@ -7,7 +7,7 @@ I'm a **Fullstack Web Developer** with 2+ years of professional experience build
 ### 🛠 Tech Stack
 - **Languages**: JavaScript (ES6+), TypeScript, PHP, SQL
 - **Frontend**: React.js, Next.js, Redux, Tailwind CSS, Shadcn UI
-- **Backend**: Node.js, Express.js, CodeIgniter, REST APIs
+- **Backend**: Node.js, Express.js, Laravel, REST APIs
 - **Databases**: MySQL, PostgreSQL, MongoDB, Prisma, Mongoose
 - **Tools**: Git & GitHub, Postman, Vercel, Netlify, Linux, pnpm
 - **Practices**: Clean Code, Component Reusability, Agile, API Integration
